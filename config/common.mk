@@ -144,20 +144,20 @@ PRODUCT_PACKAGES += \
     WeatherProvider 
 
 # SafOS packages
-#PRODUCT_PACKAGES += \
-#    PdfViewer \
-#    Mail \
-#    BlissLauncher \
-#    BlissIconPack \
-#    OpenWeatherMapWeatherProvider \
-#    AccountManager \
-#    MagicEarth \
-#    Camera \
-#    eDrive \
-#    Weather \
-#    Notes \
-#    Tasks \
-#    LibreOfficeViewer
+PRODUCT_PACKAGES += \
+    PdfViewer \
+    Mail \
+    BlissLauncher \
+    BlissIconPack \
+    OpenWeatherMapWeatherProvider \
+    AccountManager \
+    MagicEarth \
+    Camera \
+    eDrive \
+    Weather \
+    Notes \
+    Tasks \
+    LibreOfficeViewer
 
 # Accents
 PRODUCT_PACKAGES += \
