@@ -130,34 +130,16 @@ PRODUCT_PACKAGES += \
 
 # Lineage packages
 PRODUCT_PACKAGES += \
-    AudioFX \
     Backgrounds \
     LineageParts \
     LineageSettingsProvider \
     LineageSetupWizard \
     Eleven \
-    Jelly \
     LockClock \
     Profiles \
     TrebuchetQuickStep \
     Updater \
-    WeatherProvider 
-
-# SafOS packages
-PRODUCT_PACKAGES += \
-#    PdfViewer \
-#    Mail \
-#    BlissLauncher \
-#    BlissIconPack \
-    OpenWeatherMapWeatherProvider \
-#    AccountManager \
-#   MagicEarth \
-#   Camera \
-#   eDrive \
-   Weather
-#   Notes \
-#   Tasks \
-#   LibreOfficeViewer
+    WeatherProvider
 
 # Accents
 PRODUCT_PACKAGES += \
