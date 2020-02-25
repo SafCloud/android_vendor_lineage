@@ -3,7 +3,6 @@ $(call inherit-product, vendor/lineage/config/common_full.mk)
 
 # Required packages
 PRODUCT_PACKAGES += \
-    LatinIME \
     Jelly
     
 # SafOS packages
@@ -14,7 +13,8 @@ PRODUCT_PACKAGES += \
     MagicEarth \
     Camera \
     eDrive \
-    Weather
+    Weather \
+    Keyboard \
     Tasks 
 
 
