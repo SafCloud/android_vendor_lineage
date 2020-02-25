@@ -7,6 +7,6 @@ PRODUCT_PACKAGES += \
     AccountManager \
     eDrive \
     Weather \
-    Keyboard
+    LatinIME
     
 $(call inherit-product, vendor/lineage/config/telephony.mk)
