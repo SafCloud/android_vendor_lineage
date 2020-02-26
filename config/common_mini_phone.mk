@@ -4,9 +4,10 @@ $(call inherit-product, vendor/lineage/config/common_mini.mk)
 # SafOS packages
 PRODUCT_PACKAGES += \
     OpenWeatherMapWeatherProvider \
-    AccountManager \
+    AccountManager-child \
     eDrive \
     Weather \
-    LatinIME
+    LatinIME \
+    Recorder
     
 $(call inherit-product, vendor/lineage/config/telephony.mk)
