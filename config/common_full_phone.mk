@@ -15,7 +15,8 @@ PRODUCT_PACKAGES += \
     Camera \
     eDrive \
     Weather \
-    Tasks 
+    Tasks \
+    Recorder
 
 
 # Include Lineage LatinIME dictionaries
