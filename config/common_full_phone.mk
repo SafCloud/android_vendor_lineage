@@ -4,7 +4,7 @@ $(call inherit-product, vendor/lineage/config/common_full.mk)
 # Required packages
 PRODUCT_PACKAGES += \
     Jelly \
-    LatinIME
+    Keyboard
     
 # SafOS packages
 PRODUCT_PACKAGES += \
@@ -16,7 +16,8 @@ PRODUCT_PACKAGES += \
     eDrive \
     Weather \
     Tasks \
-    Recorder
+    Recorder \
+    Notes
 
 
 # Include Lineage LatinIME dictionaries
