@@ -3,7 +3,7 @@ $(call inherit-product, vendor/lineage/config/common_full.mk)
 
 # Required packages
 PRODUCT_PACKAGES += \
-    Jelly \
+    Browser \
     Keyboard
     
 # SafOS packages
@@ -17,7 +17,8 @@ PRODUCT_PACKAGES += \
     Weather \
     Tasks \
     Recorder \
-    Notes
+    Notes \
+    Books
 
 
 # Include Lineage LatinIME dictionaries
