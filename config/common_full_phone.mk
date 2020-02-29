@@ -18,8 +18,7 @@ PRODUCT_PACKAGES += \
     Tasks \
     Recorder \
     Notes \
-    Books
-
+    PdfViewer
 
 # Include Lineage LatinIME dictionaries
 PRODUCT_PACKAGE_OVERLAYS += vendor/lineage/overlay/dictionaries
